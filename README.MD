@@ -1,5 +1,6 @@
-Default system login username: root
-Default system login password: alpine
+Default system login username: root  <br>
+Default system login password: alpine <br>
+User accounts can be created using the manage admin feature (Mengurus Akaun Penyelia on menu)
 
 Group Name
 ==========
