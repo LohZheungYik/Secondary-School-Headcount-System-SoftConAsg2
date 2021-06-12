@@ -1,12 +1,26 @@
-Group Name : Real Brats
+Default system login username: root
+Default system login password: alpine
 
-Group Members : Loh Zheung Yik 	A17CS0080
-                Muhd. Haziq Bin Amir 	A17CS0117
-                Muhd. Hakim Bin MD Hambali 	A17CS0115
-                Muhd. Hafizi Bin MD Zulkeflee 	A17CS0114
-                Kevin Thien You Heng 	A17CS0067
+Group Name
+==========
+Real Brats
+
+Lecturer Name
+==============
+Dr Mohd Adham Bin Isa
+
+Group Members (Section 1)
+===============
+Loh Zheung Yik 	A17CS0080
+Muhd. Haziq Bin Amir 	A17CS0117
+Muhd. Hakim Bin MD Hambali 	A17CS0115
+Muhd. Hafizi Bin MD Zulkeflee 	A17CS0114
+Kevin Thien You Heng 	A17CS0067
+
                 
-Project Name  : Secondary School Headcount System
+Project Name
+============
+Secondary School Headcount System
 
 Project Description
 ====================
@@ -14,12 +28,12 @@ Project Description
 
 Features included in the assignment demo and code
 ==================================================
-1. Manage admin user accounts (Mengurus akaun)
+1. Manage admin user accounts (known as Mengurus Akaun Penyelia on menu)
 2. Login
-3. Manage examinations
-4. Manage subjects
-5. Manage classes
-6. Manage students
+3. Manage examinations (Mengurus Headcount Peperiksaan on menu)
+4. Manage subjects (Mengurus Senarai Mata Pelajaran)
+5. Manage classes (Mengurus Senarai Kelas)
+6. Manage students (Mengurus Senarai Pelajar) 
 
 All 6 features involve REST services which is GET, POST, PUT and DELETE requests
 
