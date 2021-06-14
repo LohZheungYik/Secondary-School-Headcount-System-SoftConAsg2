@@ -48,7 +48,7 @@ Usage Instructions
 7. run SQL query "Create database headcount;"
 8. run GRANT ALL PRIVILEDGES ON DATABASE "headcount" TO postgres
 9. Open project in Intellij
-10. Build using Shift + F9
+10. Build using Ctrl + Shift + F10
 11. Open localhost:8080 in web browser
 
 Additional Important Notes
